@@ -1,0 +1,2 @@
+This is a note.
+You can persist data in files using FileWriter.
